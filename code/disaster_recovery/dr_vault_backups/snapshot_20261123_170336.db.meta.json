@@ -1,0 +1,7 @@
+{
+  "snapshot_id": "SNAP-20261123_170336",
+  "backup_path": "./dr_vault_backups\\snapshot_20261123_170336.db",
+  "sha256": "310d8800265846a379282bee875d0fd51621708067366011f729c3ecd94c2343",
+  "timestamp_utc": "20261123_170336",
+  "status": "VERIFIED_CONSISTENT"
+}
